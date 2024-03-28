@@ -2,7 +2,6 @@ import pygame
 from pygame import KEYDOWN, K_ESCAPE, QUIT, MOUSEBUTTONDOWN, K_n, K_y
 from config import fps, screen_width, screen_height
 
-# ISSUES IM HAVING LIKELY RELATED TO HOW I AM RESETING THE GAME
 pygame.init()
 clock = pygame.time.Clock()
 
